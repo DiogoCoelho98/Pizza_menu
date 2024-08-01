@@ -16,3 +16,17 @@ Pizza Menu is a practice project designed to showcase a simple menu of six diffe
 
 ## Getting Started
 ### Installation
+```
+git clone https://github.com/DiogoCoelho98/Pizza_menu.git
+cd Pizza_menu
+```
+```
+npm install
+```
+### Usage
+- Browse through the pizza options on the main menu page.
+- Click on each pizza to view detailed information about ingredients and prices.
+
+## Contacts
+- **[LinkedIn](https://www.linkedin.com/in/diogo-borges-coelho/)**
+- **diogocoelho19988@gmail.com**
